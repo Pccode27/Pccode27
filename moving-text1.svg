@@ -1,19 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 1200 160">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%"
+     height="460"
+     viewBox="0 0 1200 460">
+
   <style>
     .text {
-      font-size: 30px;
+      font-size: 28px;
       fill: #22c55e;
       font-family: monospace;
       white-space: nowrap;
       opacity: 0;
-      animation: show 20s infinite;
+      animation: show 56s infinite;
     }
 
-    .line1 { animation-delay: 0s; }
-    .line2 { animation-delay: 4s; }
-    .line3 { animation-delay: 8s; }
-    .line4 { animation-delay: 12s; }
-    .line5 { animation-delay: 16s; }
+    .line1  { animation-delay: 0s; }
+    .line2  { animation-delay: 4s; }
+    .line3  { animation-delay: 8s; }
+    .line4  { animation-delay: 12s; }
+    .line5  { animation-delay: 16s; }
+    .line6  { animation-delay: 20s; }
+    .line7  { animation-delay: 24s; }
+    .line8  { animation-delay: 28s; }
+    .line9  { animation-delay: 32s; }
+    .line10 { animation-delay: 36s; }
+    .line11 { animation-delay: 40s; }
+    .line12 { animation-delay: 44s; }
+    .line13 { animation-delay: 48s; }
+    .line14 { animation-delay: 52s; }
 
     @keyframes show {
       0%   { opacity: 0; }
@@ -25,23 +38,59 @@
   </style>
 
   <text x="40" y="40" class="text line1">
-    > MCA graduate with a strong foundation in software engineering,
+    👨‍💻 Passionate Web Developer with frontend &amp; backend expertise.
   </text>
 
   <text x="40" y="70" class="text line2">
-    > data structures, and full-stack web development.
+    🌐 Skilled in building responsive and user-friendly web applications.
   </text>
 
   <text x="40" y="100" class="text line3">
-    > Experienced in JavaScript, Node.js, Python, and RESTful APIs.
+    ⚛️ Experienced with React.js and modern JavaScript (ES6+).
   </text>
 
   <text x="40" y="130" class="text line4">
-    > Proficient in problem-solving, OOP, and version control systems.
+    🐍 Backend development using Python (Flask) and RESTful APIs.
   </text>
 
   <text x="40" y="160" class="text line5">
-    > Seeking to contribute to high-impact engineering teams.
+    🗄️ Hands-on experience with MySQL databases.
+  </text>
+
+  <text x="40" y="190" class="text line6">
+    🧰 Tools: Git, GitHub, VS Code, Postman, Selenium WebDriver.
+  </text>
+
+  <text x="40" y="220" class="text line7">
+    🧪 Focused on clean code, debugging, and performance optimization.
+  </text>
+
+  <text x="40" y="250" class="text line8">
+    📚 Continuous learner exploring new technologies and best practices.
+  </text>
+
+  <text x="40" y="280" class="text line9">
+    🤝 Enjoy working in collaborative, team-based environments.
+  </text>
+
+  <text x="40" y="310" class="text line10">
+    🚀 Actively seeking opportunities as a full-stack developer.
+  </text>
+
+  <text x="40" y="340" class="text line11">
+    💻 Web Developer skilled in React, Flask, and REST APIs.
+  </text>
+
+  <text x="40" y="370" class="text line12">
+    🎨 Focused on responsive and modern UI design.
+  </text>
+
+  <text x="40" y="400" class="text line13">
+    🔧 Strong in debugging, API integration, and clean code.
+  </text>
+
+  <text x="40" y="430" class="text line14">
+    📈 Always learning, improving, and growing as a developer.
   </text>
 
 </svg>
