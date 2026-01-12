@@ -1,0 +1,32 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="100%"
+  height="120"
+  viewBox="0 0 1200 120"
+  preserveAspectRatio="xMidYMid meet"
+>
+
+  <style>
+    .text {
+      font-size: 42px;
+      fill: crimson;
+      font-weight: bold;
+      white-space: nowrap;
+      animation: slide 12s linear infinite;
+    }
+
+    @keyframes slide {
+      from {
+        transform: translateX(1200px);
+      }
+      to {
+        transform: translateX(-2000px);
+      }
+    }
+  </style>
+
+  <text x="0" y="75" class="text">
+    🔥 Hello! &lt;coders/&gt; 🔥 🔥 Hello! &lt;coders/&gt; 🔥 🔥 Hello! &lt;coders/&gt; 🔥
+  </text>
+
+</svg>
